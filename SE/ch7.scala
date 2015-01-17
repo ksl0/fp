@@ -54,7 +54,7 @@ def parFilter[A](l: List[A])(f: A => Boolean): Par[List[A]] = {
   map(sequence(pl))(_.flatten)
 }
 
-def map3[A,B,C,D]() =???
+//def map3[A,B,C,D]() =???
 //split left right
 // then put into sequence
 
