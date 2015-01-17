@@ -1,0 +1,11 @@
+exercise 1
+- an empty list should have 0 as its sum
+- the sum of two lists should be equal to the sum of the lists individually, then added
+
+- if the elements within the list are all greater than zero, the sum should be greater than zero
+- if the elements of the list are the same value, the sum is length of the list multiplied by the value of an element in the list
+
+
+exercise2
+- if the maximum element of the list is the first element, the function that finds the maximum of List[Int] should return the head of the list
+- the function returns the greatest element in the list
